@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Welcome and highlights"
-date:   2018-08-26 12:52:31 -0700
-categories: 
+date:   2018-08-26
 ---
 Welcome, visitor!
 
