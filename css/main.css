@@ -1,9 +1,10 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 50%;
+    background-color: #222;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Arial';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -14,23 +15,26 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #ffd700;
 }
 a:hover {
-    text-decoration: underline;
+    color: #999;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 2em;
+    font-family:'Arial';
+    color: #fff
 }
 p {
-    font-size: 1.5em;
+    font-size: 1em;
+    font-family: 'Arial';
     line-height: 1.4em;
-    color: #333;
+    color: #FFFFE0;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #DCDCDC;
     font-size: .8em;
+    color: #999;
 }
 
 ul.posts { 
