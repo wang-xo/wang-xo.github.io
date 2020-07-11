@@ -249,19 +249,19 @@ h2:hover:nth-child(even) {
 }
 
 h2:first-child {
-    background-color: #ff7170;
+    background-color: #fff681;
 }
 
 h2:nth-child(2) {
-    background-color: #0df7fe;
-}
-
-h2:nth-child(3) {
     background-color: #8383ff;
 }
 
+h2:nth-child(3) {
+    background-color: #fca3ff;
+}
+
 h2:nth-child(4) {
-    background-color: #fff681;
+    background-color: #ff7170;
 }
 
 h2:nth-child(5) {
@@ -269,7 +269,7 @@ h2:nth-child(5) {
 }
 
 h2:nth-child(6) {
-    background-color: #fca3ff;
+    background-color: #0df7fe;
 }
 
 p {
